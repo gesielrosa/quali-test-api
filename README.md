@@ -24,6 +24,8 @@ Instale as dependências com o comando `npm install` na pasta raiz do projeto.
 
 Adicione as configurações do projeto no arquivo `.env`.
 
+Execute o comando `npm run config` para configurar o ambiente.
+
 Execute o comando `npm run dev` para iniciar o serviço em modo desenvolvedor.
 
 Após iniciado faça uma chamada GET na URL `/seed/procedures/rules` para popular a tabela de regras de procedimento.
